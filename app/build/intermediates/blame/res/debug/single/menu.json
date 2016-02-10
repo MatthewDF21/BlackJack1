@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mfizzle/AndroidStudioProjects/MyBlackJack/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/mfizzle/AndroidStudioProjects/MyBlackJack/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/mfizzle/AndroidStudioProjects/Canvas_Basic_Studio-master/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/mfizzle/AndroidStudioProjects/Canvas_Basic_Studio-master/app/src/main/res/menu/menu_main.xml"
+    }
+]

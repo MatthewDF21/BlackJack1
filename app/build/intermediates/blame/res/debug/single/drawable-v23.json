@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mfizzle/AndroidStudioProjects/Canvas_Basic_Studio-master/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/mfizzle/AndroidStudioProjects/Canvas_Basic_Studio-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/mfizzle/AndroidStudioProjects/MyBlackJack/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/mfizzle/AndroidStudioProjects/MyBlackJack/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v23/abc_control_background_material.xml"
+    }
+]
