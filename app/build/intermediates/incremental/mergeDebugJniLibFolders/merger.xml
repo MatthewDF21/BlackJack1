@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/mfizzle/AndroidStudioProjects/Canvas_Basic_Studio-master/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/mfizzle/AndroidStudioProjects/Canvas_Basic_Studio-master/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/mfizzle/AndroidStudioProjects/MyBlackJack/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/mfizzle/AndroidStudioProjects/MyBlackJack/app/src/debug/jniLibs"/></dataSet></merger>
